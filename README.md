@@ -26,7 +26,6 @@ Crio interfaces web modernas, rápidas e acessíveis com **React**, **TypeScript
 - 🚀 Foco no ecossistema **React + TypeScript**
 - 🧩 Componentes **reutilizáveis e escaláveis**, com código bem organizado
 - 🔌 Integração de front-ends com **APIs REST**
-- 🌱 Sempre aprendendo — atualmente cursando programação na faculdade
 - ⚽🎮 Fora do teclado: futebol e games
 
 ```ts
