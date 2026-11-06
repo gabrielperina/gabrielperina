@@ -1,103 +1,131 @@
-<!-- ================= CABEÇALHO ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4A5C,100:61DAFB&height=220&section=header&text=Gabriel%20Perina&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Front-End&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gabriel Perina — Desenvolvedor Front-End"/>
-</p>
+ <div align="center">
 
-<p align="center">
-  <a href="https://github.com/gabrielperina">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Desenvolvedor+Front-End+%F0%9F%92%BB;React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;Criando+interfaces+limpas+e+responsivas;Integrando+APIs+REST+com+qualidade+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:240D16,70:581D2B,100:09090B&height=170&section=header&text=GABRIEL%20PERINA&fontSize=38&fontColor=E8E1DC&fontAlignY=42&animation=fadeIn&desc=FRONT-END%20DEVELOPER&descSize=14&descAlignY=63&descColor=C44854" width="100%" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C44854&center=true&vCenter=true&width=600&lines=Desenvolvendo+experi%C3%AAncias+para+a+web.;React+%7C+TypeScript+%7C+JavaScript;Transformando+ideias+em+interfaces." alt="Animação de apresentação" />
+
+  <br/><br/>
+
+  <a href="https://portfolio-gabriel-perina.gabrielperina.workers.dev">PORTFÓLIO</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/gabrielperina/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:bielperina@gmail.com">E-MAIL</a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8F2638&height=2&section=header" width="80%" />
+
+</div>
+
+## 01 — PERFIL
+
+Sou desenvolvedor Front-End e atuo na criação e evolução de aplicações web, transformando necessidades em interfaces funcionais, organizadas e intuitivas.
+
+Tenho experiência com desenvolvimento e manutenção de aplicações, implementação de funcionalidades, construção de componentes reutilizáveis, operações CRUD e correção de problemas.
+
+Gosto de explorar novas tecnologias, aprimorar minhas habilidades e buscar soluções que unam qualidade de código, usabilidade e uma boa experiência para o usuário.
+
+Atualmente, meu foco está no ecossistema JavaScript e TypeScript, especialmente no desenvolvimento de aplicações com React.
+
+## 02 — STACK TECNOLÓGICA
+
+**Principais tecnologias**
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind,html,css&theme=dark" />
+
+</div>
+
+**Frameworks e ferramentas**
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=tanstack,git,github,npm,webstorm,cloudflare&theme=dark" />
+
+</div>
+
+## 03 — EXPERIÊNCIA PROFISSIONAL
+
+**Front-End Developer · Hub Tecnológico**
+
+- Desenvolvimento e manutenção de aplicações web.
+- Implementação de novas funcionalidades e melhorias.
+- Construção de componentes reutilizáveis e interfaces.
+- Desenvolvimento de operações CRUD.
+- Correção de bugs e aprimoramento de funcionalidades existentes.
+
+**Trainee Developer · Data Smart**
+
+- Análise de conjuntos de dados fornecidos por empresas clientes.
+- Criação de gráficos e visualizações utilizando Power BI.
+
+**Suporte Técnico · Light System Software**
+
+- Atendimento e suporte técnico por chat e telefone.
+- Auxílio na utilização de sistemas empresariais.
+- Identificação e resolução de problemas.
+- Suporte em rotinas fiscais e emissão de notas fiscais.
+
+## 04 — PROJETOS
+
+<div align="center">
+
+  <h3>PORTFÓLIO PROFISSIONAL</h3>
+
+  Meu espaço para apresentar projetos, tecnologias e minha trajetória no desenvolvimento.
+
+  <a href="https://portfolio-gabriel-perina.gabrielperina.workers.dev">
+    <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-8F2638?style=for-the-badge&logo=cloudflare&logoColor=white" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielperina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/gabrielperinaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://img.shields.io/badge/Limeira%2C%20SP%20%E2%80%94%20Brasil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=61DAFB" alt="Localização"/>
-  <img src="https://komarev.com/ghpvc/?username=gabrielperina&color=0D1117&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Visualizações do perfil"/>
-</p>
+</div>
 
----
+## 05 — GITHUB ANALYTICS
 
-## 👨‍💻 Sobre mim
+<div align="center">
 
-Sou **Gabriel Perina**, **Desenvolvedor Front-End** de Limeira, São Paulo 🇧🇷.
-Crio interfaces web modernas, rápidas e acessíveis com **React**, **TypeScript** e **JavaScript**, transformando layouts em componentes limpos e reutilizáveis e conectando tudo a dados reais por meio de **APIs REST**.
+  <img src="https://streak-stats.demolab.com?user=gabrielperina&hide_border=true&background=09090B&ring=C44854&fire=A88B63&currStreakLabel=C44854&sideLabels=E8E1DC&currStreakNum=E8E1DC&sideNums=E8E1DC&dates=8A8181" width="75%" />
 
-- 🚀 Foco no ecossistema **React + TypeScript**
-- 🧩 Componentes **reutilizáveis e escaláveis**, com código bem organizado
-- 🔌 Integração de front-ends com **APIs REST**
-- ⚽🎮 Fora do teclado: futebol e games
+  <br/><br/>
 
-```ts
-const gabriel = {
-  cargo: "Desenvolvedor Front-End",
-  local: "Limeira, SP — Brasil",
-  stack: ["React", "TypeScript", "JavaScript", "HTML", "CSS"],
-  ferramentas: ["Git", "GitHub", "VS Code", "APIs REST"],
-  foco: ["UI limpa", "Layouts responsivos", "Performance", "Boas práticas"],
-  hobbies: ["⚽ Futebol", "🎮 Games", "🔥 Tecnologia"],
-  abertoAOportunidades: true,
-};
-```
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielperina&bg_color=09090b&color=e8e1dc&line=8f2638&point=c44854&area=true&hide_border=true" width="100%" />
 
----
+</div>
 
-## 🛠️ Tecnologias
+## 06 — CONTRIBUIÇÕES
 
-<p align="center">
-  <b>Front-End</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Ferramentas & Fluxo de trabalho</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub, VS Code, npm"/>
-</p>
+  <!-- Ativaremos esta animação depois de configurar o GitHub Actions. -->
+  <img src="https://raw.githubusercontent.com/gabrielperina/gabrielperina/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" width="100%" />
 
-<p align="center">
-  <b>Também já trabalhei com</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,php,java,python&theme=dark" alt="MySQL, PHP, Java, Python"/>
-</p>
+</div>
 
----
+## 07 — CONTATO
 
-## 💡 O que eu faço
+<div align="center">
 
-| Área | O que eu entrego |
-|:--|:--|
-| 🎨 **Interfaces** | Layouts fiéis ao design e responsivos em qualquer tela |
-| ⚛️ **React** | Arquitetura baseada em componentes, hooks e gerenciamento de estado |
-| 🔷 **TypeScript** | Código tipado, mais fácil de manter e escalar |
-| 🔌 **APIs REST** | Consumo de dados, estados de carregamento/erro e integração limpa |
-| 🌿 **Git** | Versionamento, branches e trabalho colaborativo no GitHub |
+  **Vamos conversar sobre tecnologia e desenvolvimento.**
 
----
+  <br/>
 
-## 📊 Estatísticas no GitHub
+  <a href="https://www.linkedin.com/in/gabrielperina/">
+    <img src="https://img.shields.io/badge/LinkedIn-8F2638?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bielperina@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-241116?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielperina&theme=github_dark" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielperina&theme=github_dark" alt="Linguagens mais usadas"/>
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielperina&locale=pt_BR&theme=dark&background=0D1117&border=30363D&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições"/>
-</p>
+  <sub>Construindo, aprendendo e evoluindo continuamente.</sub>
 
----
+  <br/><br/>
 
-## 🤝 Vamos conversar?
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:240D16,100:09090B&height=100&section=footer" width="100%" />
 
-<p align="center">
-  Estou sempre aberto a novas oportunidades, parcerias e uma boa conversa sobre front-end. <br/>
-  Fique à vontade para me chamar! 👇
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielperina/" target="_blank"><img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<!-- ================= RODAPÉ ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:0E4A5C,100:0D1117&height=120&section=footer" width="100%" alt="rodapé"/>
-</p>
+</div>
