@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="44" viewBox="0 0 186 44" role="img" aria-label="E-MAIL"><title>E-MAIL</title>
+<rect width="186" height="44" fill="#301820"/>
+<rect x=".5" y=".5" width="185" height="43" fill="none" stroke="#5A202D"/>
+<path d="M48 12v20" stroke="#E8E1DC" stroke-opacity=".25"/>
+<g transform="translate(16 12) scale(0.8333333333333334)" fill="none" stroke="#E8E1DC" stroke-width="1.8" stroke-linejoin="round"><rect x="2" y="4.5" width="20" height="15" rx="1.5"/><path d="M2.8 5.5l9.2 7.5 9.2-7.5"/></g>
+<path d="M63.1 27.5V18.0H68.8V19.4H64.7V21.8H68.3V23.3H64.7V26.0H68.8V27.5ZM75.1 23.9V22.4H79.2V23.9ZM85.3 27.5V18.0H87.2L88.1 21.0Q88.3 21.4 88.4 21.8Q88.4 22.2 88.5 22.4Q88.5 22.2 88.6 21.8Q88.7 21.4 88.8 21.0L89.7 18.0H91.6V27.5H90.1V24.5Q90.1 23.8 90.1 23.1Q90.2 22.3 90.2 21.5Q90.3 20.8 90.4 20.1Q90.4 19.4 90.5 18.9L89.2 23.4H87.7L86.4 18.9Q86.5 19.4 86.5 20.0Q86.6 20.7 86.7 21.5Q86.7 22.2 86.8 23.0Q86.8 23.8 86.8 24.5V27.5ZM96.3 27.5 98.7 18.0H100.8L103.2 27.5H101.5L101.0 25.1H98.5L98.0 27.5ZM98.8 23.8H100.7L100.1 21.3Q100.0 20.6 99.9 20.1Q99.8 19.6 99.8 19.4Q99.7 19.6 99.6 20.1Q99.5 20.6 99.4 21.3ZM108.3 27.5V26.0H110.2V19.4H108.3V18.0H113.8V19.4H111.9V26.0H113.8V27.5ZM119.8 27.5V18.0H121.4V25.9H125.4V27.5Z" fill="#E8E1DC"/>
+<path d="M156 22h12M164 17l5 5-5 5" fill="none" stroke="#A88B63" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="120" viewBox="0 0 1280 120" role="img" aria-label="Fim"><title>Fim</title>
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#5A202D" stop-opacity="0"/><stop offset="1" stop-color="#8F2638"/></linearGradient>
+  <linearGradient id="r" x1="1" x2="0"><stop offset="0" stop-color="#5A202D" stop-opacity="0"/><stop offset="1" stop-color="#8F2638"/></linearGradient>
+  <radialGradient id="gl" cx=".5" cy="1" r=".6"><stop offset="0" stop-color="#301820" stop-opacity=".9"/><stop offset="1" stop-color="#301820" stop-opacity="0"/></radialGradient>
+</defs>
+<style>.p{animation:p 5s ease-in-out infinite;transform-origin:640.0px 46px}@keyframes p{0%,100%{opacity:.55}50%{opacity:1}}</style>
+<rect y="40" width="1280" height="80" fill="url(#gl)"/>
+<rect x="120.0" y="46.0" width="476.0" height="1" fill="url(#l)"/>
+<rect x="684.0" y="46.0" width="476.0" height="1" fill="url(#r)"/>
+<g fill="none" stroke="#A88B63">
+  <path d="M640.0 30 656.0 46 640.0 62 624.0 46Z"/>
+  <path d="M610.0 46.5h8M662.0 46.5h8" />
+</g>
+<g class="p"><path d="M640.0 40L646.0 46L640.0 52L634.0 46Z" fill="#C44854"/></g>
+<path d="M0 119.5H1280" stroke="#301820"/>
+</svg>
