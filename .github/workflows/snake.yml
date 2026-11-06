@@ -2,14 +2,9 @@
 name: Gerar animação da cobrinha
 
 on:
-  # Atualiza automaticamente todos os dias
   schedule:
     - cron: "0 0 * * *"
-
-  # Permite executar manualmente
   workflow_dispatch:
-
-  # Executa também quando houver alterações na branch main
   push:
     branches:
       - main
@@ -28,10 +23,9 @@ jobs:
         with:
           github_user_name: gabrielperina
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23A88B63&color_dots=%230D0B0D,%23301820,%235A202D,%238F2638,%23C44854
 
-      - name: Publicar animação na branch output
+      - name: Publicar animação
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
