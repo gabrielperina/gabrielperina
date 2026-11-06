@@ -100,7 +100,6 @@ Atualmente, meu foco está no ecossistema JavaScript e TypeScript, especialmente
 
 <div align="center">
 
-  <!-- Ativaremos esta animação depois de configurar o GitHub Actions. -->
   <img src="https://raw.githubusercontent.com/gabrielperina/gabrielperina/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" width="100%" />
 
 </div>
